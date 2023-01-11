@@ -1,0 +1,70 @@
+.container-fluid{
+    color:blue;
+    background-color: black;
+    background-color: chartreuse;
+    nav-up: auto;
+    
+}
+#home{
+    text-align: center;
+    padding-top:50px;
+    color:black;
+    background-color:forestgreen ;
+
+    
+    
+}
+
+#about{
+    color:black;
+}
+.text-center{
+    background-color: cadetblue;
+    
+}
+#history{
+    margin-left: 200px;
+    background-color: slategray;
+    
+}
+.inner{
+    overflow: hidden;
+    background-color:gold ;
+    
+
+}
+.card img:hover{
+    transform: scale(1.5);
+}
+.form{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: forestgreen;
+    
+    
+}
+.form1{
+    color: white;
+
+
+}
+
+
+
+#end1{
+    background-color: black;
+    margin-top: 0%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+    
+
+#com1{
+    margin-top: 0%;
+}
